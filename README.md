@@ -22,7 +22,7 @@ This project implements a **Movie Recommendation System** using **Collaborative 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/sanskar_kesari/movie-recommendation-system.git
+   git clone https://github.com/sanskarkesari/movie-recommendation-system.git
    ```
 2. Install dependencies:
    ```sh
