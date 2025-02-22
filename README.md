@@ -6,7 +6,7 @@ This project implements a **Movie Recommendation System** using **Collaborative 
 ## Features
 - **Collaborative Filtering**: Recommends movies based on similar users' preferences.
 - **Content-Based Filtering**: Suggests movies with similar attributes to those a user has liked.
-- **Hybrid Model**: Combines both approaches for improved accuracy.
+- **Hybrid Model**: It Combines both approaches for improved accuracy.
 
 ## Dataset
 - **MovieLens 100K Dataset**
@@ -16,8 +16,8 @@ This project implements a **Movie Recommendation System** using **Collaborative 
 ## Tech Stack
 - **Data Processing**: MySQL, Python
 - **Machine Learning**: Collaborative Filtering, Content-Based Filtering, Hybrid Model
-- **Backend**: JSP, MongoDB
-- **Deployment**: Google Colab for model training and processing
+- **Backend**: JSP, MongoDB 
+- **Deployment**: Google Colab for model training and processing.
 
 ## Installation
 1. Clone the repository:
@@ -31,7 +31,7 @@ This project implements a **Movie Recommendation System** using **Collaborative 
 3. Set up the MySQL database and import dataset.
 4. Run data processing scripts in Google Colab.
 5. Execute python scripts for each recommendation model.
-6. Load results into colab properly
+6. Load results into colab properly.
 
 ## Usage
 1. **Upload MovieLens Dataset** to MySQL.
