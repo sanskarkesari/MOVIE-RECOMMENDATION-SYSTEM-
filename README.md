@@ -31,7 +31,7 @@ This project implements a **Movie Recommendation System** using **Collaborative 
 3. Set up the MySQL database and import dataset.
 4. Run data processing scripts in Google Colab.
 5. Execute python scripts for each recommendation model.
-6. Load results into colab
+6. Load results into colab properly
 
 ## Usage
 1. **Upload MovieLens Dataset** to MySQL.
