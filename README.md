@@ -50,9 +50,6 @@ This project implements a **Movie Recommendation System** using **Collaborative 
 - **Sanskar Kesari**  
 - **Devansh Bhavsar**  
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - **MovieLens Dataset by University of Minnesota**
 - **Apache Hadoop & Big Data Tools**
